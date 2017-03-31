@@ -1,0 +1,41 @@
+
+- create new project (! see location of spigot)
+- create PlayerJoinEvent event
+- create BlockBreakEvent event
+- create PlayerRespawnEvent
+- create red wool arena
+
+
+=----------------------------=----------------------------=----------------------------=----------------------------
+
+- update spigot: 1) download git bash 2) java -jar BuildTools.jar
+
+- download world:
+https://www.minecraftworldmap.com/worlds/srp6P#/199/64/-289/-4/0/0
+
+- copy to spigot
+
+- detele /player folder
+
+
+
+
+
+
+
+@EventHandler(priority = EventPriority.HIGHEST)
+    public void onBlockBreak(BlockBreakEvent event) {
+            event.setCancelled(true);
+        }
+    }
+	
+=----------------------------=----------------------------=----------------------------=----------------------------
+	
+	World templateworld = this.getServer().createWorld(new WorldCreator(this.getConfig().getString("templateworldname")));
+=----------------------------=----------------------------=----------------------------=----------------------------
+
+	Bukkit.getServer().getWorlds().add(WORLD);
+ 
+if(getServer().getWorlds().add(WORLD) == true) {
+log.info("Loaded world '" + WORLD_NAME + "' sucessfully!");
+}
