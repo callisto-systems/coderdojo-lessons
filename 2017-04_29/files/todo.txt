@@ -1,0 +1,9 @@
+Learn to debug:
+
+- in spigot.yml change to high value:
+    max-tick-time:
+      tile: 60000000
+      entity: 60000000
+	
+	
+- scoreboard

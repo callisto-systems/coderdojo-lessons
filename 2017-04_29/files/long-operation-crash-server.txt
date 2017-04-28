@@ -1,0 +1,51 @@
+
+
+int counter = 0;
+while(counter >= 0) {
+	plugin.getServer().broadcastMessage(ChatColor.WHITE +
+			"Jocul porneste in " + ChatColor.RED + counter + ChatColor.WHITE + " secunde");
+	counter ++;
+	try {
+		Thread.sleep(1000L);
+	} catch (InterruptedException ex) {
+		Logger.getLogger(PlayersListener.class.getName()).log(Level.SEVERE, null, ex);
+	}
+}
+				
+
+
+[17:12:11 ERROR]: The server has stopped responding!
+[17:12:11 ERROR]: Please report this to http://www.spigotmc.org/
+[17:12:11 ERROR]: Be sure to include ALL relevant console errors and Minecraft crash reports
+[17:12:11 ERROR]: Spigot version: git-Spigot-625bc00-d09304e (MC: 1.11.2)
+[17:12:11 ERROR]: ------------------------------
+[17:12:11 ERROR]: Server thread dump (Look for plugins here before reporting to Spigot!):
+[17:12:11 ERROR]: ------------------------------
+[17:12:11 ERROR]: Current Thread: Server thread
+[17:12:11 ERROR]:       PID: 14 | Suspended: false | Native: false | State: TIMED_WAITING
+[17:12:11 ERROR]:       Stack:
+[17:12:11 ERROR]:               java.lang.Thread.sleep(Native Method)
+[17:12:11 ERROR]:               ro.coderdojo.ctf.PlayersListener.onPlayerInteract(PlayersListener.java:101)
+[17:12:11 ERROR]:               sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[17:12:11 ERROR]:               sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[17:12:11 ERROR]:               sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[17:12:11 ERROR]:               java.lang.reflect.Method.invoke(Unknown Source)
+[17:12:11 ERROR]:               org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:302)
+[17:12:11 ERROR]:               org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[17:12:11 ERROR]:               org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[17:12:11 ERROR]:               org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[17:12:11 ERROR]:               org.bukkit.craftbukkit.v1_11_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:234)
+[17:12:11 ERROR]:               net.minecraft.server.v1_11_R1.PlayerInteractManager.a(PlayerInteractManager.java:444)
+[17:12:11 ERROR]:               net.minecraft.server.v1_11_R1.PlayerConnection.a(PlayerConnection.java:912)
+[17:12:11 ERROR]:               net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37)
+[17:12:11 ERROR]:               net.minecraft.server.v1_11_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:1)
+[17:12:11 ERROR]:               net.minecraft.server.v1_11_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[17:12:11 ERROR]:               java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[17:12:11 ERROR]:               java.util.concurrent.FutureTask.run(Unknown Source)
+[17:12:11 ERROR]:               net.minecraft.server.v1_11_R1.SystemUtils.a(SourceFile:46)
+[17:12:11 ERROR]:               net.minecraft.server.v1_11_R1.MinecraftServer.D(MinecraftServer.java:747)
+[17:12:11 ERROR]:               net.minecraft.server.v1_11_R1.DedicatedServer.D(DedicatedServer.java:399)
+[17:12:11 ERROR]:               net.minecraft.server.v1_11_R1.MinecraftServer.C(MinecraftServer.java:678)
+[17:12:11 ERROR]:               net.minecraft.server.v1_11_R1.MinecraftServer.run(MinecraftServer.java:576)
+[17:12:11 ERROR]:               java.lang.Thread.run(Unknown Source)
+[17:12:11 INFO]: Stopping server
