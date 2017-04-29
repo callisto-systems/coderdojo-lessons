@@ -1,9 +1,36 @@
+1)
 Learn to debug:
-
 - in spigot.yml change to high value:
+
+
+world-settings:
+  default:
     max-tick-time:
       tile: 60000000
       entity: 60000000
-	
-	
+settings:
+  timeout-time: 60000000
+	  
+	  
+java -Xdebug -Xnoagent -Djava.compiler=NONE -Xrunjdwp:transport=dt_socket,server=y,suspend=n,address=4020 -jar spigot-1.11.2.jar	  
+	  
+2)	
 - scoreboard
+
+
+3) - NU
+NU- intri direct într-o echipă la join
+
+4) condiții de începere a jocului (albastii+rosii)
+
+5) iei sabua dacă treci prin holograma
+
+----------------------------------------------------------------------------------------------
+
+What i've done:
+
+-all fields private in Players -> encapsulate
+-add scoreboards
+
+
+mutat onPlayerMove pe clasa Players
