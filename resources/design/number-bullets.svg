@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2721.9753mm"
+   height="2694.8928mm"
+   viewBox="0 0 9644.7945 9548.8328"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="number-bullets.svg"
+   inkscape:export-filename="C:\prj\callisto-3rd-party\design\logo-callisto-big.png"
+   inkscape:export-xdpi="0.51255924"
+   inkscape:export-ydpi="0.51255924">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18108 : 1"
+       inkscape:vp_y="0 : 999.99996 : 0"
+       inkscape:vp_z="744.09445 : 526.18108 : 1"
+       inkscape:persp3d-origin="372.04722 : 350.78739 : 1"
+       id="perspective4159" />
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter10045">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood10047" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite10049" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="50"
+         result="blur"
+         id="feGaussianBlur10051" />
+      <feOffset
+         dx="20"
+         dy="50"
+         result="offset"
+         id="feOffset10053" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite10055" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix10057" />
+      <feFlood
+         id="feFlood10059"
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite10061"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur10063"
+         in="composite1"
+         stdDeviation="50"
+         result="blur" />
+      <feOffset
+         id="feOffset10065"
+         dx="20"
+         dy="50"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite10067"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#888888"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.04"
+     inkscape:cx="6716.2254"
+     inkscape:cy="9581.2418"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-others="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-global="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2708.1609,2820.2214)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9735"
+       width="29393.277"
+       height="20008.887"
+       x="-3879.2285"
+       y="18687.773" />
+    <g
+       id="g10278"
+       inkscape:export-xdpi="0.82999998"
+       inkscape:export-ydpi="0.82999998">
+      <g
+         id="g10234">
+        <g
+           id="g10073">
+          <circle
+             r="1900.703"
+             cy="-5971.0264"
+             cx="-6899.8896"
+             id="path9719"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter10045)" />
+          <circle
+             r="1719.6837"
+             cy="-5971.0264"
+             cx="-6899.8896"
+             id="path9717"
+             style="opacity:1;fill:#a40000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <g
+           id="g10228">
+          <g
+             id="g10223">
+            <g
+               id="g10219">
+              <text
+                 sodipodi:linespacing="125%"
+                 id="text10069"
+                 y="-4702.1055"
+                 x="-7468.8896"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                 xml:space="preserve"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4125px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';fill:#ffffff"
+                   y="-4702.1055"
+                   x="-7468.8896"
+                   id="tspan10071"
+                   sodipodi:role="line">1</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g10340"
+       inkscape:export-xdpi="0.82999998"
+       inkscape:export-ydpi="0.82999998">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter10045)"
+         id="circle10127"
+         cx="-2510.1707"
+         cy="-5993.6538"
+         r="1900.703" />
+      <g
+         id="g10289">
+        <circle
+           r="1719.6837"
+           cy="-5993.6538"
+           cx="-2510.1707"
+           id="circle10129"
+           style="opacity:1;fill:#5c3566;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text10183"
+           y="-4781.1294"
+           x="-3581.7039"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4125px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';fill:#ffffff"
+             y="-4781.1294"
+             x="-3581.7039"
+             id="tspan10185"
+             sodipodi:role="line">2</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g10294"
+       inkscape:export-filename="c:\CoderDojo\proiecte\coderdojo.git\coderdojo-lessons\resources\design\bullet-3.png "
+       inkscape:export-xdpi="0.82999998"
+       inkscape:export-ydpi="0.82999998">
+      <circle
+         r="1900.703"
+         cy="-5993.6538"
+         cx="1947.4303"
+         id="circle10121"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter10045)" />
+      <circle
+         r="1719.6837"
+         cy="-5993.6538"
+         cx="1947.4303"
+         id="circle10123"
+         style="opacity:1;fill:#ce5c00;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text10187"
+         y="-4779.1152"
+         x="946.39276"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4125px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';fill:#ffffff"
+           y="-4779.1152"
+           x="946.39276"
+           id="tspan10189"
+           sodipodi:role="line">3</tspan></text>
+    </g>
+    <g
+       id="g10300"
+       inkscape:export-filename="c:\CoderDojo\proiecte\coderdojo.git\coderdojo-lessons\resources\design\bullet-4.png "
+       inkscape:export-xdpi="0.82999998"
+       inkscape:export-ydpi="0.82999998">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter10045)"
+         id="circle10115"
+         cx="6631.3052"
+         cy="-6084.1636"
+         r="1900.703" />
+      <circle
+         style="opacity:1;fill:#8f5902;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle10117"
+         cx="6631.3052"
+         cy="-6084.1636"
+         r="1719.6837" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="5492.2979"
+         y="-4823.2993"
+         id="text10191"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan10193"
+           x="5492.2979"
+           y="-4823.2993"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4125px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';fill:#ffffff">4</tspan></text>
+    </g>
+    <g
+       id="g10306"
+       inkscape:export-filename="c:\CoderDojo\proiecte\coderdojo.git\coderdojo-lessons\resources\design\bullet-5.png "
+       inkscape:export-xdpi="0.82999998"
+       inkscape:export-ydpi="0.82999998">
+      <circle
+         r="1900.703"
+         cy="-6016.2812"
+         cx="11247.299"
+         id="circle10109"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter10045)" />
+      <circle
+         r="1719.6837"
+         cy="-6016.2812"
+         cx="11247.299"
+         id="circle10111"
+         style="opacity:1;fill:#3c7804;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text10195"
+         y="-4807.7852"
+         x="10218.063"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4125px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';fill:#ffffff"
+           y="-4807.7852"
+           x="10218.063"
+           id="tspan10197"
+           sodipodi:role="line">5</tspan></text>
+    </g>
+    <g
+       id="g10312"
+       inkscape:export-filename="c:\CoderDojo\proiecte\coderdojo.git\coderdojo-lessons\resources\design\bullet-6.png "
+       inkscape:export-xdpi="0.82999998"
+       inkscape:export-ydpi="0.82999998"
+       transform="translate(225,2750)">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter10045)"
+         id="circle10103"
+         cx="-6786.7524"
+         cy="-1671.8171"
+         r="1900.703" />
+      <circle
+         style="opacity:1;fill:#204a87;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle10105"
+         cx="-6786.7524"
+         cy="-1671.8171"
+         r="1719.6837" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-7941.8735"
+         y="-439.15115"
+         id="text10199"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan10201"
+           x="-7941.8735"
+           y="-439.15115"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4125px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';fill:#ffffff">6</tspan></text>
+    </g>
+    <g
+       id="g10354"
+       inkscape:export-filename="c:\CoderDojo\proiecte\coderdojo.git\coderdojo-lessons\resources\design\bullet-7.png "
+       inkscape:export-xdpi="0.82999998"
+       inkscape:export-ydpi="0.82999998"
+       transform="translate(225,2750)">
+      <circle
+         r="1900.703"
+         cy="-1807.5817"
+         cx="-2351.7788"
+         id="circle10097"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter10045)" />
+      <g
+         id="g10318">
+        <circle
+           style="opacity:1;fill:#008b8b;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle10099"
+           cx="-2351.7788"
+           cy="-1807.5817"
+           r="1719.6837" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-3318.5757"
+           y="-582.97229"
+           id="text10203"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan10205"
+             x="-3318.5757"
+             y="-582.97229"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4125px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';fill:#ffffff">7</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g10323"
+       inkscape:export-filename="c:\CoderDojo\proiecte\coderdojo.git\coderdojo-lessons\resources\design\bullet-8.png "
+       inkscape:export-xdpi="0.82999998"
+       inkscape:export-ydpi="0.82999998"
+       transform="translate(225,2750)">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter10045)"
+         id="circle10091"
+         cx="2151.0771"
+         cy="-1784.9542"
+         r="1900.703" />
+      <circle
+         style="opacity:1;fill:#9400d3;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle10093"
+         cx="2151.0771"
+         cy="-1784.9542"
+         r="1719.6837" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1142.99"
+         y="-562.35907"
+         id="text10207"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan10209"
+           x="1142.99"
+           y="-562.35907"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4125px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';fill:#ffffff">8</tspan></text>
+    </g>
+    <g
+       id="g10347"
+       inkscape:export-filename="c:\CoderDojo\proiecte\coderdojo.git\coderdojo-lessons\resources\design\bullet-9.png "
+       inkscape:export-xdpi="0.82999998"
+       inkscape:export-ydpi="0.82999998"
+       transform="translate(225,2750)">
+      <circle
+         r="1900.703"
+         cy="-1784.9542"
+         cx="6880.2075"
+         id="circle10085"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter10045)" />
+      <g
+         id="g10329">
+        <circle
+           style="opacity:1;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1"
+           id="circle10087"
+           cx="6880.2075"
+           cy="-1784.9542"
+           r="1719.6837" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="5721.0581"
+           y="-568.40155"
+           id="text10211"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan10213"
+             x="5721.0581"
+             y="-568.40155"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4125px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';fill:#ffffff">9</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g10334"
+       inkscape:export-filename="c:\CoderDojo\proiecte\coderdojo.git\coderdojo-lessons\resources\design\bullet-0.png "
+       inkscape:export-xdpi="0.82999998"
+       inkscape:export-ydpi="0.82999998"
+       transform="translate(225,2750)">
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter10045)"
+         id="circle10079"
+         cx="11496.2"
+         cy="-1898.0913"
+         r="1900.703" />
+      <circle
+         style="opacity:1;fill:#4682b4;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle10081"
+         cx="11496.2"
+         cy="-1898.0913"
+         r="1719.6837" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="10197.067"
+         y="-685.56696"
+         id="text10215"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan10217"
+           x="10197.067"
+           y="-685.56696"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4125px;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi Bold';fill:#ffffff">0</tspan></text>
+    </g>
+  </g>
+</svg>
