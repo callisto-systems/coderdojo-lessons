@@ -2,6 +2,7 @@ package ro.coderdojo.ctf;
 
 import java.util.ArrayList;
 import java.util.List;
+import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.DyeColor;
 import org.bukkit.GameMode;
@@ -22,11 +23,13 @@ import org.bukkit.event.player.PlayerMoveEvent;
 import org.bukkit.event.player.PlayerRespawnEvent;
 import org.bukkit.material.Wool;
 import org.bukkit.plugin.Plugin;
+import org.bukkit.scoreboard.Scoreboard;
 
 public class PlayersListener implements Listener {
 
 	Plugin plugin;
 	World lobby;
+        Scoreboard lobbyBoard;
 
 	public static List<Player> redPlayers = new ArrayList<>();
 	public static List<Player> bluePlayers = new ArrayList<>();
@@ -40,6 +43,13 @@ public class PlayersListener implements Listener {
 	public void PlayersListener(PlayerJoinEvent event) throws Exception {
 		event.getPlayer().setGameMode(GameMode.ADVENTURE);
 		event.getPlayer().teleport(new Location(lobby, 19.589, 231, 21.860));
+                
+                if(lobbyBoard == null) {
+                    lobbyBoard = Bukkit.getScoreboardManager().getNewScoreboard();
+                    lobbyBoard.registerNewObjective("noPlayers", "dummy") ;
+                    
+                }
+                lobbyBoard.getObjective("noPlayers");
 	}
 
 	@EventHandler

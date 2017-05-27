@@ -55,7 +55,7 @@
 				<artifactId>maven-antrun-plugin</artifactId>
 				<configuration>
 					<tasks>
-						<copy file="target/captureTheFlag-1.0-SNAPSHOT.jar" todir="c:\prj\coderdojo-spigot\plugins"/>
+						<copy file="target/captureTheFlag-1.0-SNAPSHOT.jar" todir="c:\coderdojo\spigot\plugins"/>
 					</tasks>
 				</configuration>
 				<executions>
